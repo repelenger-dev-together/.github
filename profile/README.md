@@ -1,2 +1,2 @@
 <h1 style="font-size:80px;">Hello 👋 </h1>
-<h2 style="text-align:center">Perkumpulan Programmer yang nganggur </h2>
+<p style="text-align:center; font-size: 200px;">Perkumpulan Programmer yang nganggur </p>
